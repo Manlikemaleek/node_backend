@@ -1,1 +1,1 @@
-# node_backend
+# node_backend for backend development tutorial
